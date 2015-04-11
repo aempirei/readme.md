@@ -6,7 +6,7 @@ block
 heres some serious ubllshit
 
 some | bullshit | table
---|--|--
+----|----|----
 fucking | non | sense
 fucking | non | sense
 
