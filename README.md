@@ -5,7 +5,7 @@ block
 
 ## style0 *style1* **style2**
 
-## ~~style3~~ `style4` _style5_
+## ~~style3~~ `style4` _style_5_
 
 # multi
 # header
