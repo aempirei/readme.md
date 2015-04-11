@@ -3,6 +3,12 @@
 block
 ```
 
+heres some serious ubllshit
+
+some | bullshit | table
+-----------------------
+fucking | non | sense
+
 ## style0 *style1* **sty*le*2**
 
 ## ~~style3~~ `style4` _style_5_
@@ -27,7 +33,4 @@ _wh_at the_ **fuck**
 
 > # header-block
 
-some | bullshit | table
------------------------
-fucking | non | sense
 
