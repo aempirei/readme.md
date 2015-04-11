@@ -21,7 +21,7 @@ block
 crap
 >
 
-waht the fuck
+w*aht **the* fu**ck
 
 > # header-block
 
