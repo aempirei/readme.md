@@ -27,8 +27,6 @@ _wh_at the_ **fuck**
 
 > # header-block
 
-# > block-header
-
 some | bullshit | table
 --
 fucking | non | sense
