@@ -3,7 +3,7 @@
 block
 ```
 
-## style0 *style1* **style2**
+## style0 *style1* **sty*le*2**
 
 ## ~~style3~~ `style4` _style_5_
 
