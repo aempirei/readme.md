@@ -8,7 +8,6 @@ heres some serious ubllshit
 some | bullshit | table
 ---|---|---
 fucking | non | sense
-fucking | non | sense
 
 ## style0 *style1* **sty*le*2**
 
