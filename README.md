@@ -40,7 +40,7 @@ what
 ```
 
 code **block**
-``` eat pienis
+```
 
 ```
 code block
