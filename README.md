@@ -27,6 +27,10 @@ block
 crap
 >
 
+what the # fuck
+
+what the ## fuck
+
 w*aht**the*fu**ck
 
 _wh_at the_ **fuck**
