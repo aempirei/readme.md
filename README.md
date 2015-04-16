@@ -7,7 +7,7 @@ heres some serious ubllshit
 
 some crazy ***triple style*** word _up_ *dawg* fuck_*your*_mom *star\*bitch*
 
-some *escapes \* * and \` and \#
+some _escapes \* _ and \` and \#
 \# what
 
 some | bullshit | table
